@@ -1,0 +1,23 @@
+{
+  "order": [],
+  "testi": [],
+  "chat": {},
+  "sewa": {},
+  "produk": {
+    "AM100": {
+      "id": "AM100",
+      "name": "Alight Motion 1 Tahun",
+      "desc": "Private",
+      "snk": "Dilarang Jual",
+      "price": "300",
+      "stok": []
+    }
+  },
+  "setting": {
+    "6285810445440@s.whatsapp.net": {
+      "autoread": true,
+      "autoketik": false,
+      "anticall": true
+    }
+  }
+}
